@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vishnu Lal M
 
-**Blazor Developer | .NET Enthusiast | Full Stack Web Developer**
+**Blazor Developer | .NET Enthusiast 
 
 ---
 
@@ -13,11 +13,10 @@ I'm a passionate Blazor and .NET developer with hands-on experience in building 
 ## 💼 Skills
 
 - **Languages:** C#, JavaScript, HTML, CSS
-- **Frameworks:** Blazor, ASP.NET Core, Entity Framework Core
-- **Front-end:** Bootstrap, React (basic), Razor Components
+- **Frameworks:** Blazor, ASP.NET Core
+- **Front-end:** Bootstrap,Tailwind,Blazor, Razor Components
 - **Databases:** SQL Server, MySQL
-- **Cloud:** Azure (basics)
-- **Tools:** Visual Studio, Git, GitHub, Postman, Docker (basics)
+- **Tools:** Visual Studio, Git, GitHub, Postman
 - **Other:** REST APIs, LINQ, Authentication & Authorization, Web APIs
 
 ---
